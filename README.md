@@ -1,29 +1,25 @@
-<div style="text-align: center;>
-
-![Adrià Martínez card name](https://cardivo.vercel.app/api?name=Adrià%20Martínez&description=Full%20stack%20and%20game%20developer&image=https://cdn.dribbble.com/users/4048081/screenshots/12201146/media/393af3a5c5fdeabe338fbe745a198551.gif&backgroundColor=%23e9e9e9)
-
-</div>
-
-## Portfolio
-
-### Web dev
-
-> My portofolio page is under construction, but you can see my projects in my github profile.
-
-My last project:
-
-[![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Front)](https://github.com/anuraghazra/github-readme-stats)
-[![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Back)](https://github.com/anuraghazra/github-readme-stats)
-
-### Game dev
-
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://qimdev.itch.io/)
+![Adrià Martinez card name](https://cardivo.vercel.app/api?name=Adrià%20Martínez&description=Hi,%20i%27m%20a%20Full%20Stack%20and%20Game%20Developer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://cdn.dribbble.com/users/4048081/screenshots/12201146/media/393af3a5c5fdeabe338fbe745a198551.gif&backgroundColor=%23e9e9e9)
 
 ## How to reach me 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A0-mart%C3%ADnez-garc%C3%ADa-719956158/)
 
 Email: adriamartinez94@gmail.com
+
+## Portfolio
+
+### Web dev
+
+> **_NOTE:_** My portfolio page is under construction, but you can see my projects in my github profile.
+
+#### My last project:
+
+[![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Front)](https://github.com/Jacky16/Tweeter-Front)
+[![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Back)](https://github.com/Jacky16/Tweeter-Back)
+
+### Game dev
+
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://qimdev.itch.io/)
 
 ## Stats 📈
 
@@ -116,6 +112,6 @@ Email: adriamartinez94@gmail.com
 
 ## Currently Listening 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adolfo007xd&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adolfo007xd&cover_image=true&theme=default&show_offline=false&background_color=121212)]
 
 </div>
