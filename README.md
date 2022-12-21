@@ -1,4 +1,4 @@
-![Adrià Martinez card name](https://cardivo.vercel.app/api?name=Adrià%20Martínez&description=Hi,%20i%27m%20a%20Full%20Stack%20and%20Game%20Developer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://cdn.dribbble.com/users/4048081/screenshots/12201146/media/393af3a5c5fdeabe338fbe745a198551.gif&backgroundColor=%23e9e9e9)
+![Adrià Martinez card name](https://cardivo.vercel.app/api?name=Adrià%20Martínez&description=Hi,%20i%27m%20a%20Full%20Stack%20and%20Game%20Developer,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://cdn.dribbble.com/users/4048081/screenshots/12201146/media/393af3a5c5fdeabe338fbe745a198551.gif&backgroundColor=%23e9e9e9)
 
 ## How to reach me 📫
 
@@ -8,14 +8,18 @@ Email: adriamartinez94@gmail.com
 
 ## Portfolio
 
-### Web dev
-
 > **_NOTE:_** My portfolio page is under construction, but you can see my projects in my github profile.
 
-#### My last project:
+### Web dev
+
+#### Last project:
+
+<div align="center">
 
 [![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Front)](https://github.com/Jacky16/Tweeter-Front)
 [![Tweeter front project](https://github-readme-stats.vercel.app/api/pin/?username=Jacky16&repo=Tweeter-Back)](https://github.com/Jacky16/Tweeter-Back)
+
+</div>
 
 ### Game dev
 
@@ -23,7 +27,7 @@ Email: adriamartinez94@gmail.com
 
 ## Stats 📈
 
-<div style="text-align: center; display:flex align-items:center;">
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacky16&theme=monokai&count_private=true)
 
@@ -39,6 +43,8 @@ Email: adriamartinez94@gmail.com
 
 ### Frontend 📟
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bem](https://img.shields.io/badge/bem-%23DB7093.svg?style=for-the-badge&logo=bem&logoColor=white)
@@ -53,7 +59,11 @@ Email: adriamartinez94@gmail.com
 ![material-ui](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
+</div>
+
 ### Backend 🖥️
+
+<div align="center">
 
 ![Nodejs](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge)
@@ -66,18 +76,31 @@ Email: adriamartinez94@gmail.com
 ![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-%23404d59.svg?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-%23404d59.svg?style=for-the-badge)
 
+</div>
+
 ### Testing 🧪
+
+<div align="center">
 
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23000.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/react--testing--library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 
+</div>
+
 ### Game Dev 🎮
+
+<div align="center">
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## Tools 🛠️
+</div>
+<br>
+
+## Tools/Platforms🛠️
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CD/CI](https://img.shields.io/badge/cd--ci-%2302569B.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -97,7 +120,11 @@ Email: adriamartinez94@gmail.com
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logo)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+</div>
+
 ## Languages/Technologies that I used while studying 📚
+
+<div align="center">
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/androidstudio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -108,10 +135,14 @@ Email: adriamartinez94@gmail.com
 ![Sql](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<div style="text-align: center;">
+</div>
+
+<br>
 
 ## Currently Listening 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adolfo007xd&cover_image=true&theme=default&show_offline=false&background_color=121212)]
+<div align="center">
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adolfo007xd&cover_image=true&theme=default&show_offline=false&background_color=121212)
 
 </div>
