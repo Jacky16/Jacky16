@@ -8,11 +8,9 @@ Email: adriamartinez94@gmail.com
 
 ## Portfolio
 
-> **_NOTE:_** My portfolio page is under construction, but you can see my projects in my github profile.
+[![Adrià Martínez portofolio website](https://img.shields.io/badge/Portfolio-%23FF8906.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adria-martinez.netlify.app/)
 
-### Web dev
-
-#### Last project:
+### Last project:
 
 <div align="center">
 
