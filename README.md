@@ -50,6 +50,7 @@ Email: adriamartinez94@gmail.com
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%23FFB81C.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
